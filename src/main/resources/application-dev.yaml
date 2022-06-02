@@ -1,0 +1,3 @@
+app:
+  props:
+    message: This is DEV env property file for ${spring.application.name} Application

@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Profiles
+
+app:
+  props:
+    message: This is the primary property file for ${spring.application.name} Application

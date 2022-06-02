@@ -1,0 +1,3 @@
+app:
+  props:
+    message: This is the TEST property message for ${spring.application.name} Application
